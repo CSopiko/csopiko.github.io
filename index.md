@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Hi, I'm Sopiko - a master’s student at the University of Helsinki, majoring in Language Technology, Linguistic Diversity and Digital Humanities within the Faculty of Arts. Alongside my studies, I work full-time as an AI Engineer.
+<img src="assets/images/you.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Hi, I'm Sopiko - a master’s student at the University of Helsinki, majoring in Language Technology, Linguistic Diversity and Digital Humanities within the Faculty of Arts. Alongside my studies, I work full-time as an AI Engineer.
 
 My interests span across multiple areas of artificial intelligence, from natural language processing to broader machine learning applications. Outside of tech, I occasionally challenge myself with new activities: my short-lived karate journey taught me that balance is key, both literally and figuratively. These days, I find running to be a refreshing way to reset, and when time allows, I unwind by playing bass guitar.
 
@@ -14,7 +14,7 @@ My interests span across multiple areas of artificial intelligence, from natural
 
 ## Contact
 
-My email address is of the form sopiko.kurdadze@helsinki.fi.
+My email address is sopiko.kurdadze@helsinki.fi.
 
 ## Courses I've Taken
 
@@ -27,6 +27,7 @@ My email address is of the form sopiko.kurdadze@helsinki.fi.
 ## Projects
 
 Project: [cmdline-course](https://github.com/CSopiko/cmdline-course)
+
 Description: This project was one of the assignments of the command line tools course. I this project we had to demonstrate how well we understood version control with git.
 
 
