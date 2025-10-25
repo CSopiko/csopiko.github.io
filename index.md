@@ -16,6 +16,10 @@ My interests span across multiple areas of artificial intelligence, from natural
 
 My email address is sopiko.kurdadze@helsinki.fi.
 
+## My CV
+
+<a href="{{ "/assets/documents/Sopiko_Kurdadze-CV.pdf" | relative_url }}" target="_blank" rel="noopener">CV (PDF)</a>
+
 ## Courses I've Taken
 
 [Command-Line Tools for Linguists](https://studies.helsinki.fi/kurssit/toteutus/hy-opt-cur-2526-261401a1-c550-4436-91b9-7edf4a1a3b57/KIK-LG221), fall 2025
@@ -28,7 +32,7 @@ My email address is sopiko.kurdadze@helsinki.fi.
 
 Project: [cmdline-course](https://github.com/CSopiko/cmdline-course)
 
-Description: This project was one of the assignments of the command line tools course. I this project we had to demonstrate how well we understood version control with git.
+Description: This project was one of the assignments of the command line tools course. In this project we had to demonstrate how well we understood version control with git.
 
 
 ## Misc. 
